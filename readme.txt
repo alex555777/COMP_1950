@@ -1,0 +1,1 @@
+This project demonstrates various web development techniques from COMP 1950.
